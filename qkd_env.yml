@@ -173,4 +173,4 @@ dependencies:
     - websocket-client==1.4.2
     - websockets==10.4
     - widgetsnbextension==4.0.5
-prefix: C:\Users\user\.conda\envs\qkd_env
+prefix: /home/runner/work/qkd_env/qkd_env
